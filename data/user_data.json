@@ -1,0 +1,9 @@
+{
+    "habits": [
+        {
+            "name": "Reading",
+            "completed": false
+        }
+    ],
+    "focus_sessions": []
+}
