@@ -3,6 +3,18 @@
         {
             "name": "Reading",
             "completed": false
+        },
+        {
+            "name": "Reading",
+            "completed": false
+        },
+        {
+            "name": "Dancing",
+            "completed": false
+        },
+        {
+            "name": "Singing",
+            "completed": false
         }
     ],
     "focus_sessions": []
