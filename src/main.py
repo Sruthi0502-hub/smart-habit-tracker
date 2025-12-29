@@ -18,9 +18,8 @@ def main():
             list_habits()
 
         elif choice == "3":
-            list_habits()
-            habit_no = int(input("Enter habit number to complete: ")) - 1
-            complete_habit(habit_no)
+             complete_habit()  # ✅ no arguments needed
+
 
         elif choice == "4":
             print("Exiting...")
